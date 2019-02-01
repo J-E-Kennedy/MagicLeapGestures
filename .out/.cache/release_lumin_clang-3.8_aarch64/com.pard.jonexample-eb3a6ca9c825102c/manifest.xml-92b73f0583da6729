@@ -1,0 +1,10 @@
+<manifest xmlns:ml="magicleap" ml:developer_id="abd31ef3-c561-429c-949c-bdf29ea7052f" ml:package="com.pard.jonexample" ml:version_code="1" ml:version_name="">
+  <application ml:min_api_level="3" ml:sdk_version="1.0" ml:visible_name="LuminHandGestures">
+    <uses-privilege ml:name="LowLatencyLightwear" />
+    <uses-privilege ml:name="GesturesConfig" />
+    <uses-privilege ml:name="GesturesSubscribe" />
+    <component ml:binary_name="bin/Player.elf" ml:name=".fullscreen" ml:type="Fullscreen" ml:visible_name="LuminHandGestures">
+      <icon ml:model_folder="Icon/Model" ml:portal_folder="Icon/Portal" />
+    </component>
+  </application>
+</manifest>

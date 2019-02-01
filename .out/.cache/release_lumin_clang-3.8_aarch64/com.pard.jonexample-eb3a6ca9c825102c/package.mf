@@ -1,0 +1,289 @@
+{
+ "entries": [
+  {
+   "compression": 8,
+   "hash": "8b156fd0b258f8fd322d5ed0c5340f562682b466",
+   "pkgpath": "Data/095890d8c9bde1a45b549a17e6e6f961",
+   "size": 5036,
+   "src": "C:/Users/tchan/Documents/Github/HandGestures/Temp/StagingArea/Data/095890d8c9bde1a45b549a17e6e6f961"
+  },
+  {
+   "compression": 8,
+   "hash": "8509161158b540280e309da9fdc66494598052c1",
+   "pkgpath": "Data/9c9078c06443df049a2830962f9dd5ef",
+   "size": 49642,
+   "src": "C:/Users/tchan/Documents/Github/HandGestures/Temp/StagingArea/Data/9c9078c06443df049a2830962f9dd5ef"
+  },
+  {
+   "compression": 8,
+   "hash": "946259a469aee46361c329bcd516b2c47a9e7cbc",
+   "pkgpath": "Data/Managed/Metadata/global-metadata.dat",
+   "size": 2790424,
+   "src": "C:/Users/tchan/Documents/Github/HandGestures/Temp/StagingArea/Data/Managed/Metadata/global-metadata.dat"
+  },
+  {
+   "compression": 8,
+   "hash": "4240f833634ee6ebf786b3ec6a705eb4a771c1cc",
+   "pkgpath": "bin/libil2cpp.so",
+   "size": 34239440,
+   "src": "C:/Users/tchan/Documents/Github/HandGestures/Temp/StagingArea/Data/Native/libil2cpp.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\tchan\\MagicLeap\\mlsdk\\v0.19.0\\cert\\test2.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "8cc99d969ebd1598a02209a5ef5b7b972464a10b",
+   "xfrm_path": "C:/Users/tchan/Documents/Github/HandGestures/.out/.cache/release_lumin_clang-3.8_aarch64/com.pard.jonexample-eb3a6ca9c825102c\\libil2cpp.so-c0745206bdc7564f",
+   "xfrm_size": 34240198
+  },
+  {
+   "compression": 8,
+   "hash": "dc64ed4bee950e5ce1ab12268f627a3db179e4af",
+   "pkgpath": "bin/AudioPluginMSASpatializer.so",
+   "size": 220456,
+   "src": "C:/Users/tchan/Documents/Github/HandGestures/Temp/StagingArea/Data/Plugins/AudioPluginMSASpatializer.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\tchan\\MagicLeap\\mlsdk\\v0.19.0\\cert\\test2.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "1fa01c24957293a4262f005e403abac7b84f3e7e",
+   "xfrm_path": "C:/Users/tchan/Documents/Github/HandGestures/.out/.cache/release_lumin_clang-3.8_aarch64/com.pard.jonexample-eb3a6ca9c825102c\\AudioPluginMSASpatializer.so-67ef2822bd915b1d",
+   "xfrm_size": 221214
+  },
+  {
+   "compression": 8,
+   "hash": "aed32544e1ea67c511396569fcb89b586b15d839",
+   "pkgpath": "bin/UnityEngine.SpatialTracking.dll",
+   "size": 9216,
+   "src": "C:/Users/tchan/Documents/Github/HandGestures/Temp/StagingArea/Data/Plugins/UnityEngine.SpatialTracking.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "715f293d231a26472ba1672c3e59f76cb0e5e364",
+   "pkgpath": "bin/UnityEngine.TestRunner.dll",
+   "size": 65536,
+   "src": "C:/Users/tchan/Documents/Github/HandGestures/Temp/StagingArea/Data/Plugins/UnityEngine.TestRunner.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "d93ff7b64d92abd6dbb8419c3348ab5f56ad5ec5",
+   "pkgpath": "bin/UnityMagicLeap.so",
+   "size": 728232,
+   "src": "C:/Users/tchan/Documents/Github/HandGestures/Temp/StagingArea/Data/Plugins/UnityMagicLeap.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\tchan\\MagicLeap\\mlsdk\\v0.19.0\\cert\\test2.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "5fde6fde975201ab4787c52e102d0d68b10d8071",
+   "xfrm_path": "C:/Users/tchan/Documents/Github/HandGestures/.out/.cache/release_lumin_clang-3.8_aarch64/com.pard.jonexample-eb3a6ca9c825102c\\UnityMagicLeap.so-67ef2822bd915b1d",
+   "xfrm_size": 728990
+  },
+  {
+   "compression": 8,
+   "hash": "a765bb75be250a6992c1a46fc23a55501e369b85",
+   "pkgpath": "bin/libml_camera_plugin.so",
+   "size": 14184,
+   "src": "C:/Users/tchan/Documents/Github/HandGestures/Temp/StagingArea/Data/Plugins/libml_camera_plugin.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\tchan\\MagicLeap\\mlsdk\\v0.19.0\\cert\\test2.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "072a555d881813096a91a8c647d96c78b83aa313",
+   "xfrm_path": "C:/Users/tchan/Documents/Github/HandGestures/.out/.cache/release_lumin_clang-3.8_aarch64/com.pard.jonexample-eb3a6ca9c825102c\\libml_camera_plugin.so-67ef2822bd915b1d",
+   "xfrm_size": 14942
+  },
+  {
+   "compression": 8,
+   "hash": "633780c922a0dbfe032638afff9a25e3fc49219f",
+   "pkgpath": "bin/libml_mediaplayer_plugin.so",
+   "size": 38792,
+   "src": "C:/Users/tchan/Documents/Github/HandGestures/Temp/StagingArea/Data/Plugins/libml_mediaplayer_plugin.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\tchan\\MagicLeap\\mlsdk\\v0.19.0\\cert\\test2.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "3afccbaeb0b99470825e4b5e4899cb71c0e5f4f6",
+   "xfrm_path": "C:/Users/tchan/Documents/Github/HandGestures/.out/.cache/release_lumin_clang-3.8_aarch64/com.pard.jonexample-eb3a6ca9c825102c\\libml_mediaplayer_plugin.so-67ef2822bd915b1d",
+   "xfrm_size": 39550
+  },
+  {
+   "compression": 8,
+   "hash": "5629c7ff5fb59ddc72778d4b9d3dbadcde480998",
+   "pkgpath": "bin/nunit.framework.dll",
+   "size": 328192,
+   "src": "C:/Users/tchan/Documents/Github/HandGestures/Temp/StagingArea/Data/Plugins/nunit.framework.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "e6124da6073b916e29e013cf3ae3f58a4c5fdb0e",
+   "pkgpath": "Data/Resources/mscorlib.dll-resources.dat",
+   "size": 337563,
+   "src": "C:/Users/tchan/Documents/Github/HandGestures/Temp/StagingArea/Data/Resources/mscorlib.dll-resources.dat"
+  },
+  {
+   "compression": 8,
+   "hash": "dc1423ee40a78f4701880b37e1f07bc4f3500e9d",
+   "pkgpath": "Data/Resources/unity default resources",
+   "size": 3308004,
+   "src": "C:/Users/tchan/Documents/Github/HandGestures/Temp/StagingArea/Data/Resources/unity default resources"
+  },
+  {
+   "compression": 8,
+   "hash": "c0d06b372dca191476c9fbca38494c86cc394e13",
+   "pkgpath": "Data/Resources/unity_builtin_extra",
+   "size": 392748,
+   "src": "C:/Users/tchan/Documents/Github/HandGestures/Temp/StagingArea/Data/Resources/unity_builtin_extra"
+  },
+  {
+   "compression": 8,
+   "hash": "9bbb5e3aae616602db933abd34140e11132fccea",
+   "pkgpath": "Data/UnitySubsystems/Runtime/UnitySubsystemsManifest.json",
+   "size": 438,
+   "src": "C:/Users/tchan/Documents/Github/HandGestures/Temp/StagingArea/Data/UnitySubsystems/Runtime/UnitySubsystemsManifest.json"
+  },
+  {
+   "compression": 8,
+   "hash": "65ac14b7926d955dff945168613e7ae58635d56a",
+   "pkgpath": "Data/adcae46baa3736748a69f9f489676bd7",
+   "size": 49726,
+   "src": "C:/Users/tchan/Documents/Github/HandGestures/Temp/StagingArea/Data/adcae46baa3736748a69f9f489676bd7"
+  },
+  {
+   "compression": 8,
+   "hash": "b088e6387dff2186fa558355a759723407bcbc0a",
+   "pkgpath": "Data/boot.config",
+   "size": 55,
+   "src": "C:/Users/tchan/Documents/Github/HandGestures/Temp/StagingArea/Data/boot.config"
+  },
+  {
+   "compression": 8,
+   "hash": "af0f1feeb7f1ad64b66599ff8718fca8f2822984",
+   "pkgpath": "Data/globalgamemanagers",
+   "size": 34852,
+   "src": "C:/Users/tchan/Documents/Github/HandGestures/Temp/StagingArea/Data/globalgamemanagers"
+  },
+  {
+   "compression": 8,
+   "hash": "6a5bf5f93bc40a5bbbe9c6fb5ee9bcef603a105b",
+   "pkgpath": "Data/globalgamemanagers.assets",
+   "size": 36488,
+   "src": "C:/Users/tchan/Documents/Github/HandGestures/Temp/StagingArea/Data/globalgamemanagers.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "186faaf6f6e3323545472aa7cdf5e30c394b0525",
+   "pkgpath": "Data/level0",
+   "size": 11948,
+   "src": "C:/Users/tchan/Documents/Github/HandGestures/Temp/StagingArea/Data/level0"
+  },
+  {
+   "compression": 8,
+   "hash": "708bf8e3059603c1dd2f12c582dd7a374fdd4960",
+   "pkgpath": "Data/level0.resS",
+   "size": 131232,
+   "src": "C:/Users/tchan/Documents/Github/HandGestures/Temp/StagingArea/Data/level0.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "361b949b47aedb364aea11867d01a6e63e05b4a0",
+   "pkgpath": "Data/sharedassets0.assets",
+   "size": 523852,
+   "src": "C:/Users/tchan/Documents/Github/HandGestures/Temp/StagingArea/Data/sharedassets0.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "02704c27c91fbbc8afd366667e50fe2098b33dc0",
+   "pkgpath": "Data/sharedassets0.assets.resS",
+   "size": 2097152,
+   "src": "C:/Users/tchan/Documents/Github/HandGestures/Temp/StagingArea/Data/sharedassets0.assets.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "8f59c553fa65e4c62b244f94275fdf50ef6a40e8",
+   "pkgpath": "bin/Player.elf",
+   "size": 22318968,
+   "src": "C:/Users/tchan/Documents/Github/HandGestures/Temp/StagingArea/Player.elf",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\tchan\\MagicLeap\\mlsdk\\v0.19.0\\cert\\test2.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "5c57be5f034cc64eea0bc4462556126632b87448",
+   "xfrm_path": "C:/Users/tchan/Documents/Github/HandGestures/.out/.cache/release_lumin_clang-3.8_aarch64/com.pard.jonexample-eb3a6ca9c825102c\\Player.elf-92b73f0583da6729",
+   "xfrm_size": 22319726
+  },
+  {
+   "compression": 8,
+   "hash": "5925de9f4d7b83c65d1fd7b25ced5f0bf8c27e73",
+   "pkgpath": "bin/libc++_shared.so",
+   "size": 976832,
+   "src": "C:/Users/tchan/MagicLeap/mlsdk/v0.19.0/lumin/stl/libc++/lib/libc++_shared.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\tchan\\MagicLeap\\mlsdk\\v0.19.0\\cert\\test2.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "58a525d4f6059057d4d6fda8e24ccba3a990fd5b",
+   "xfrm_path": "C:/Users/tchan/Documents/Github/HandGestures/.out/.cache/release_lumin_clang-3.8_aarch64/com.pard.jonexample-eb3a6ca9c825102c\\libc++_shared.so-f025b5481c3328f7",
+   "xfrm_size": 977590
+  },
+  {
+   "compression": 8,
+   "hash": "773f6c9f4a5d14f57a041656b91e555f44779e09",
+   "pkgpath": "manifest.xml",
+   "size": 649,
+   "src": "C:\\Users\\tchan\\Documents\\Github\\HandGestures\\Temp\\StagingArea\\manifest.xml",
+   "xfrm_flags": {
+    "manifest": {
+     "cert_hash": "ddbf06f2a51f06d9e424e602543cd6d731fe4796",
+     "developer_id": "abd31ef3-c561-429c-949c-bdf29ea7052f"
+    }
+   },
+   "xfrm_hash": "4b2e85f12b50a14bc6d22984faba2bcb8906ee45",
+   "xfrm_path": "C:/Users/tchan/Documents/Github/HandGestures/.out/.cache/release_lumin_clang-3.8_aarch64/com.pard.jonexample-eb3a6ca9c825102c\\manifest.xml-92b73f0583da6729",
+   "xfrm_size": 661
+  }
+ ],
+ "pkgflags": {
+  "signed": {
+   "cert": "C:\\Users\\tchan\\MagicLeap\\mlsdk\\v0.19.0\\cert\\test2.cert"
+  },
+  "taildata": {
+   "devcert": "C:\\Users\\tchan\\MagicLeap\\mlsdk\\v0.19.0\\cert\\test2.cert",
+   "sbox": "USER",
+   "version": 3
+  }
+ }
+}
