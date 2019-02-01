@@ -2,30 +2,16 @@
  "entries": [
   {
    "compression": 8,
-   "hash": "8b156fd0b258f8fd322d5ed0c5340f562682b466",
-   "pkgpath": "Data/095890d8c9bde1a45b549a17e6e6f961",
-   "size": 5036,
-   "src": "C:/Users/tchan/Documents/Github/HandGestures/Temp/StagingArea/Data/095890d8c9bde1a45b549a17e6e6f961"
-  },
-  {
-   "compression": 8,
-   "hash": "8509161158b540280e309da9fdc66494598052c1",
-   "pkgpath": "Data/9c9078c06443df049a2830962f9dd5ef",
-   "size": 49642,
-   "src": "C:/Users/tchan/Documents/Github/HandGestures/Temp/StagingArea/Data/9c9078c06443df049a2830962f9dd5ef"
-  },
-  {
-   "compression": 8,
-   "hash": "946259a469aee46361c329bcd516b2c47a9e7cbc",
+   "hash": "6f12bf473a8840bcacd295fa22c4b74445e5180b",
    "pkgpath": "Data/Managed/Metadata/global-metadata.dat",
-   "size": 2790424,
+   "size": 2529924,
    "src": "C:/Users/tchan/Documents/Github/HandGestures/Temp/StagingArea/Data/Managed/Metadata/global-metadata.dat"
   },
   {
    "compression": 8,
-   "hash": "4240f833634ee6ebf786b3ec6a705eb4a771c1cc",
+   "hash": "20f2f086c5bd4acbd669e984ab1da26f8552702c",
    "pkgpath": "bin/libil2cpp.so",
-   "size": 34239440,
+   "size": 30571016,
    "src": "C:/Users/tchan/Documents/Github/HandGestures/Temp/StagingArea/Data/Native/libil2cpp.so",
    "xfrm_flags": {
     "signed": {
@@ -36,28 +22,9 @@
      "version": 3
     }
    },
-   "xfrm_hash": "8cc99d969ebd1598a02209a5ef5b7b972464a10b",
+   "xfrm_hash": "fc97264266ed0bad6e2e9a2d50cd3caf6cd223d0",
    "xfrm_path": "C:/Users/tchan/Documents/Github/HandGestures/.out/.cache/release_lumin_clang-3.8_aarch64/com.pard.jonexample-eb3a6ca9c825102c\\libil2cpp.so-c0745206bdc7564f",
-   "xfrm_size": 34240198
-  },
-  {
-   "compression": 8,
-   "hash": "dc64ed4bee950e5ce1ab12268f627a3db179e4af",
-   "pkgpath": "bin/AudioPluginMSASpatializer.so",
-   "size": 220456,
-   "src": "C:/Users/tchan/Documents/Github/HandGestures/Temp/StagingArea/Data/Plugins/AudioPluginMSASpatializer.so",
-   "xfrm_flags": {
-    "signed": {
-     "cert": "C:\\Users\\tchan\\MagicLeap\\mlsdk\\v0.19.0\\cert\\test2.cert"
-    },
-    "taildata": {
-     "sbox": "USER",
-     "version": 3
-    }
-   },
-   "xfrm_hash": "1fa01c24957293a4262f005e403abac7b84f3e7e",
-   "xfrm_path": "C:/Users/tchan/Documents/Github/HandGestures/.out/.cache/release_lumin_clang-3.8_aarch64/com.pard.jonexample-eb3a6ca9c825102c\\AudioPluginMSASpatializer.so-67ef2822bd915b1d",
-   "xfrm_size": 221214
+   "xfrm_size": 30571774
   },
   {
    "compression": 8,
@@ -167,13 +134,6 @@
   },
   {
    "compression": 8,
-   "hash": "65ac14b7926d955dff945168613e7ae58635d56a",
-   "pkgpath": "Data/adcae46baa3736748a69f9f489676bd7",
-   "size": 49726,
-   "src": "C:/Users/tchan/Documents/Github/HandGestures/Temp/StagingArea/Data/adcae46baa3736748a69f9f489676bd7"
-  },
-  {
-   "compression": 8,
    "hash": "b088e6387dff2186fa558355a759723407bcbc0a",
    "pkgpath": "Data/boot.config",
    "size": 55,
@@ -181,23 +141,23 @@
   },
   {
    "compression": 8,
-   "hash": "af0f1feeb7f1ad64b66599ff8718fca8f2822984",
+   "hash": "ff1e5e1f039d8c99f0ac6686c3e4e124923b5f25",
    "pkgpath": "Data/globalgamemanagers",
-   "size": 34852,
+   "size": 31996,
    "src": "C:/Users/tchan/Documents/Github/HandGestures/Temp/StagingArea/Data/globalgamemanagers"
   },
   {
    "compression": 8,
-   "hash": "6a5bf5f93bc40a5bbbe9c6fb5ee9bcef603a105b",
+   "hash": "3035b997f9d3680b59cdffaa094c987cad60af81",
    "pkgpath": "Data/globalgamemanagers.assets",
-   "size": 36488,
+   "size": 28528,
    "src": "C:/Users/tchan/Documents/Github/HandGestures/Temp/StagingArea/Data/globalgamemanagers.assets"
   },
   {
    "compression": 8,
-   "hash": "186faaf6f6e3323545472aa7cdf5e30c394b0525",
+   "hash": "43d6a77eea9401eb0067ee08a65bc67ac158c1b8",
    "pkgpath": "Data/level0",
-   "size": 11948,
+   "size": 10732,
    "src": "C:/Users/tchan/Documents/Github/HandGestures/Temp/StagingArea/Data/level0"
   },
   {
@@ -209,17 +169,10 @@
   },
   {
    "compression": 8,
-   "hash": "361b949b47aedb364aea11867d01a6e63e05b4a0",
+   "hash": "db818768857ff1b737e61131301e1f80cb5c1ded",
    "pkgpath": "Data/sharedassets0.assets",
-   "size": 523852,
+   "size": 105760,
    "src": "C:/Users/tchan/Documents/Github/HandGestures/Temp/StagingArea/Data/sharedassets0.assets"
-  },
-  {
-   "compression": 8,
-   "hash": "02704c27c91fbbc8afd366667e50fe2098b33dc0",
-   "pkgpath": "Data/sharedassets0.assets.resS",
-   "size": 2097152,
-   "src": "C:/Users/tchan/Documents/Github/HandGestures/Temp/StagingArea/Data/sharedassets0.assets.resS"
   },
   {
    "compression": 8,

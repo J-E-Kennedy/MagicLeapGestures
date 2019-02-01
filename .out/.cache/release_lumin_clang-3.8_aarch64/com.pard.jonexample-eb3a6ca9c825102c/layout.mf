@@ -4,10 +4,6 @@
   "src": "C:/Users/tchan/Documents/Github/HandGestures/Temp/StagingArea/Data/Native/libil2cpp.so"
  },
  {
-  "dest": "bin/AudioPluginMSASpatializer.so",
-  "src": "C:/Users/tchan/Documents/Github/HandGestures/Temp/StagingArea/Data/Plugins/AudioPluginMSASpatializer.so"
- },
- {
   "dest": "bin/UnityEngine.SpatialTracking.dll",
   "src": "C:/Users/tchan/Documents/Github/HandGestures/Temp/StagingArea/Data/Plugins/UnityEngine.SpatialTracking.dll"
  },

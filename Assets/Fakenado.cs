@@ -16,6 +16,10 @@ public class Fakenado : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
+
+        transform.LookAt(Camera.main.transform);
+        transform.Rotate(90, 0, 0);
+
         if(handPoint.magnitude > 0)
         {
             transform.position = Vector3.Slerp(transform.position, handPoint, maxSpeed * Time.deltaTime);
